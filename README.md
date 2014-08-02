@@ -1,4 +1,4 @@
-dwarf-fortress-checklist
+Dwarf Fortress Quick Reference
 ========================
 
-Checklist to set up a new Dwarf Fortress Game
+Quick references for the game
